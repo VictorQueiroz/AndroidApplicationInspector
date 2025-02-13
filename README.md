@@ -1,6 +1,6 @@
 # Application Inspector
 
-List all installed applications and their details.
+List all your applications and their package IDs; for free.
 
 ## Example
 
